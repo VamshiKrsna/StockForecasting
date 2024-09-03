@@ -1,0 +1,5 @@
+outs:
+- md5: 7c874c0c90baa0af9da700d69d9c75b1
+  size: 1078607
+  hash: md5
+  path: tesla_stock_data.csv
