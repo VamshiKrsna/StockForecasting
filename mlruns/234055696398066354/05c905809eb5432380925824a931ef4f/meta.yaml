@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rizen3/Desktop/Vamshi/Machine%20Learning%20and%20DSA/SelfProjects/StockForecasting/mlruns/234055696398066354/05c905809eb5432380925824a931ef4f/artifacts
+end_time: 1725348953237
+entry_point_name: ''
+experiment_id: '234055696398066354'
+lifecycle_stage: active
+run_id: 05c905809eb5432380925824a931ef4f
+run_name: Data Fetching and Preprocessing
+run_uuid: 05c905809eb5432380925824a931ef4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725348936558
+status: 3
+tags: []
+user_id: Rizen3
