@@ -32,6 +32,9 @@ def main():
         print("Running data preprocessing and feature engineering script...")
         run_command("python data_prep_engg.py")
 
+        print("Running LSTM Model training script...")
+        run_command("python train_lstm.py")
+
         # Log metrics or artifacts if applicable
         # For example:
         # mlflow.log_artifact("StockForecasting/data/TSLA.csv")
